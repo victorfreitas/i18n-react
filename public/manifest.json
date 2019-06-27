@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "I18n React",
+  "name": "Create React internationalization with hooks",
   "icons": [
     {
       "src": "favicon.ico",
